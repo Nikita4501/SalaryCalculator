@@ -35,6 +35,6 @@
 
 ### 2.2. Автоматизированные модульные тесты
 
-Проект `SalaryCalculator.Tests` содержит 10 модульных тестов (MSTest), проверяющих бизнес-логику расчёта (класс `SalaryCalculatorLogic`). Все тесты пройдены успешно:
+Проект `SalaryCalculatorTests` содержит 10 модульных тестов, проверяющих бизнес-логику расчёта (класс `SalaryCalculatorLogic`). Все тесты пройдены успешно:
 
 <img width="980" height="477" alt="image" src="https://github.com/user-attachments/assets/5d15255c-f758-4b8d-a8c0-b539655644d1" />
